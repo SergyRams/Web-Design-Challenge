@@ -1,0 +1,34 @@
+section{
+  background: blue;
+  height: 50vh;
+  width: 60%;
+  text-align: center;
+}
+
+img{
+  height: 100%;
+}
+.section1{
+  background: red;
+  height: 60vh;
+  width: 60%;
+  text-align: center;
+}
+.contenedor-flex{
+}
+
+.parent {
+  display: flex;
+  justify-content:center;
+  background: green;
+  height: 10vh
+  width: 60%
+  /*height: 300px; /* Or whatever */
+}
+
+.child {
+  display: flex;
+  width: 100px;  /* Or whatever */
+  height: 100px; /* Or whatever */
+  margin: auto;  /* Magic! */
+}
