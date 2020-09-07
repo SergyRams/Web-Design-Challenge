@@ -1,0 +1,34 @@
+.header {
+background: #2e2e2e;
+}
+
+.header .navbar {
+    background: #2e2e2e;
+}
+.header .navbar .navbar-brand{
+  color: #fff
+}
+
+.header .navbar-nav> .nav-link {
+  color: #fff
+}
+
+.header .navbar-nav -nav-link {
+  color: #fff
+}
+/*************Header */
+.navigation {
+  margin:10px 0;
+
+padding: 20px 0;
+background: #d3d3d3;
+}
+
+.navigation .nav .nav-item .nav-link active {
+  color: #585858;
+
+}
+. navigatio  .nav .nav-item .nav-link:hover {
+  color #585858;
+  
+}
